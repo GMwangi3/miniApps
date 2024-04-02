@@ -1,5 +1,5 @@
-h1 {
-    color: #f50a0a;
+h2 {
+    color: darkmagenta;
     font: italic;
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-    color: darkblue;
+    color:  rgb(139, 19, 103);
     font-style: oblique;
 }
 
@@ -20,4 +20,17 @@ h5 {
     font-size: large;
     font-weight: lighter;
 
+}
+.container {
+    display: flex;
+}
+.box {
+    flex: 1;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+.highlight {
+    color: rgb(139, 19, 103);
+    font-weight: bold;
 }
