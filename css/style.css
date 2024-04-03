@@ -9,7 +9,7 @@ h2 {
 }
 
 p {
-    color:  rgb(139, 19, 103);
+    color: rgb(139, 19, 103);
     font-style: oblique;
 }
 
@@ -21,15 +21,18 @@ h5 {
     font-weight: lighter;
 
 }
+
 .container {
     display: flex;
 }
+
 .box {
     flex: 1;
     border: 1px solid black;
     margin: 5px;
     padding: 10px;
 }
+
 .highlight {
     color: rgb(139, 19, 103);
     font-weight: bold;

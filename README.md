@@ -1,2 +1,2 @@
-created the 1st webpage health.html under the html subfolder
+Welcome to my website: https://gmwangi3.github.io/miniApps/css/myhealth.html
 # miniApps
