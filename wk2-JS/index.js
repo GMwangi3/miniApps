@@ -6,7 +6,7 @@ console.log("The data type is", typeof addition);
 
 const name="Grace";
 const surname="karoki";
-const fullname= name + " "+ surname;
+const fullname= name +" "+ surname;
 console.log("My name is ", fullname);
 
 
